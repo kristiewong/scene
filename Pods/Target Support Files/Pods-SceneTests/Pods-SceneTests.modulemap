@@ -1,0 +1,6 @@
+framework module Pods_SceneTests {
+  umbrella header "Pods-SceneTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
